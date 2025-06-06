@@ -1,0 +1,12 @@
+{
+  "name": "sala-sem-futuro",
+  "version": "1.0.0",
+  "description": "Site automatizado para API da Secretaria de Educação SP",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
